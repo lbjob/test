@@ -1,0 +1,14 @@
+git clone https://github.com/lbjob/test.git
+
+新增文件步骤
+git add .
+git commit -m "提交说明"
+git push origin master
+如要新增目录,则该目录下,必须得有文件,才能新增
+
+更新文件步骤:与新增相同
+
+删除单文件
+git rm 文件名
+git commit -m "提交说明"
+git push origin master
