@@ -12,5 +12,14 @@ git push origin master
 git rm 文件名
 git commit -m "提交说明"
 git push origin master
+删除文件夹
+git rm -r 文件夹名称
+git commit -m "提交说明"
+git push origin master
 
 git push 得时候username输入注册时填写的nickname，我的为lbjob
+
+
+git操作参考网址
+http://blog.csdn.net/qyf_5445/article/details/8737913
+http://www.jianshu.com/p/8d26730386f3
